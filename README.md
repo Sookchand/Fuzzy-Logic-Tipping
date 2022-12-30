@@ -10,26 +10,21 @@ Brunel University London
 
 
 ## Demo
-![image](https://user-images.githubusercontent.com/34344439/210076406-fcec9d43-67e6-42d2-9673-3e858cc3ed8a.png)
-![image](https://user-images.githubusercontent.com/34344439/210076522-bf093028-c0be-4f86-b882-9b4e2b4464ac.png)
-![image](https://user-images.githubusercontent.com/34344439/210076626-16eba30c-ab3e-4188-8b57-b86d77c4ca8d.png)
-![image](https://user-images.githubusercontent.com/34344439/210076759-24dd288c-0a1e-4131-af6a-4a0ec63800e4.png)
+
+Insert gif or link to demo
+
 
 ## Tech Stack
 
 The tech stack used for this solution is Python and Scikit-Fuzzy.
 
 ## Documentation
-
-Solution:
-https://scikit-fuzzy.readthedocs.io/en/latest/
-
-Tech Stack:
-https://scikit-fuzzy.readthedocs.io/en/latest/
+Documentation for the Scikit-Fuzzy library can be found at: https://pythonhosted.org/scikit-fuzzy/index.html.
 ## Lessons Learned
-- How to use Scikit-Fuzzy to create a control system.
-- How to use fuzzy logic to determine a suggested tip percentage.
-- How to use Python to create a solution to a problem.
+- How to use the Scikit-Fuzzy library to solve fuzzy logic problems.
+- How to define the Antecedent and Consequent objects and their membership functions.
+- How to define the rules and create the ControlSystem.
+- How to pass inputs to the ControlSystem and compute the output.
 # Hi, I'm Sookchand! 👋
 
 To be better than yesterday, better than the last hour, even to be better than the last
